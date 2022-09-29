@@ -1,0 +1,25 @@
+body {
+  margin-top: 80px;
+}
+    
+.our-chef{
+  display: flex;
+}
+.chef{
+  
+  width: 25%;
+  box-shadow: 7px 7px 45px rgb(184, 17, 120);
+  margin-left: 45%;
+  padding:15px 15px;
+  border-radius: 25px;
+
+}
+.our-chef img{
+  width: 50%;
+  border-radius: 50%;
+}
+
+.chef a{
+  text-decoration: none;
+  color: black;
+}
